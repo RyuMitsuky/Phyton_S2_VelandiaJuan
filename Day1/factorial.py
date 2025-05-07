@@ -23,5 +23,8 @@ else:
     print("No se puede calcular el factorial")
 
 ###Creado por VelandiaJuan#####
+<<<<<<< HEAD
 
     
+=======
+>>>>>>> 88792eccae48fade5ede9069a1747de193251a48

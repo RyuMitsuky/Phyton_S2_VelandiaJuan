@@ -1,6 +1,6 @@
-# Introduccion a la programaccion Psenit 
+# Introduccion a python con ejercicios 
 
-En esta documentacion, se abarcara el progreso introductorio con Pseint, en donde se se muestra diferentes problematicas cotidianas plasmadas en el hambito programatico, e aqui la tabla de contenidos 
+En esta documentacion, se abarcara el progreso introductorio con python, se toman ejercicios anteriores y se plasman en un nuevo formato, que es python
 
 ## Tabla de contenidos
 
